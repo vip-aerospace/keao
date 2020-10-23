@@ -30,16 +30,12 @@ pyIGRF: code to synthesise magnetic field values from the 13th generation of the
 
  Inputs:
  -------
-     Inputs are via the command line:    
-     
-     Options include: 
-         Write to filename          
+     Inputs are via the command line:       
 
-         
-     Latitude & longitude entered as: 
-         (1) decimal degrees or 
-         (2) degrees & minutes (not in grid)
     
+     Latitude & longitude entered as: 
+         (1) decimal degrees 
+
         
      Date: in decimal years (e.g. 2020.25)
  
@@ -71,10 +67,16 @@ if __name__ == '__main__':
     # Introduction text and initial option selection
     # -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=    
 
-
+    # Latitude and Longitude of UH Post Building
+    
     latd = 21.2974
     lond = 157.8165
+    
+
+    # Altitude set 400 km above the earth
+    
     alt = 6778.137
+
     date = 2020
     itype = 2
         
@@ -132,9 +134,13 @@ if __name__ == '__main__':
     # at the start of each five year epoch e.g. 2010, 2015, 2020
     decs, hozs, incs, effs = iut.xyz2dhif_sv(Xm, Ym, Zm, dX, dY, dZ)
     
+    # our X,Y,Z components in nanoTeslas 
+
     print(X)
     print(Y)
     print(Z)
     
-#return np.arrayX,Y,Z
+#return np.array([X,Y,Z])
+#Still have to return functions X, Y, Z.
+
 
