@@ -6,7 +6,7 @@
 Add your name to the list below:
 
 1. Mitchell Matsumori-Kelly
-2. 
+2. Kelly Ngo 
 3. 
 4. 
 5. 
