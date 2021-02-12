@@ -7,7 +7,7 @@ Add your name to the list below:
 
 1. Mitchell Matsumori-Kelly
 2. Kelly Ngo 
-3. 
+3. Ethan Chee
 4. 
 5. 
 6. 
