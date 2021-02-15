@@ -10,7 +10,7 @@ Add your name to the list below:
 3. Ethan Chee
 4. Sebastian Murakami
 5. 
-6. 
+6. Nagahiro Ohashi
 7. 
 8. 
 9. 
