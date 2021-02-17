@@ -12,6 +12,6 @@ Add your name to the list below:
 5. Shawn Iwane
 6. Nagahiro Ohashi
 7. Jessa Llamas
-8. 
+8. Katlynn Vicuna
 9. 
 10. 
