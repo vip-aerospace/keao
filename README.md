@@ -23,5 +23,5 @@ Add your name to the list below:
 6. Nagahiro Ohashi
 7. Jessa Llamas
 8. Katlynn Vicuna
-9. 
+9. Anthony Lopez
 10. 
